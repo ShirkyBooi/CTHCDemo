@@ -1,0 +1,3 @@
+[submodule "hardware/KiCAD Libraries"]
+	path = hardware/KiCAD Libraries
+	url = https://github.com/ShirkyBooi/KiCADLibraries
